@@ -33,4 +33,4 @@ portfolio-project/
 - Git and GitHub
 
 ## Author
-Akash Nand Sinha
+Ayushman Sharma
