@@ -10,9 +10,10 @@ Hello! My name is Ayushman Sharma. I am learning web development and building my
 - CSS
 - Java
 
+
 ## Project Structure
 
-
+```text
 portfolio-project/
 ├── assets/
 ├── pages/
@@ -20,7 +21,7 @@ portfolio-project/
 ├── index.html
 ├── style.css
 └── README.md
-
+```
 
 ## Features
 - Personal profile page
